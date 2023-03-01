@@ -1,0 +1,6 @@
+package com.ar.dlivr.dlivr_user
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
